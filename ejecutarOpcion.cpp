@@ -2,7 +2,7 @@
 #include "persona.h"
 using namespace std;
 
-//Prototipos
+//Prototipos de funcion
 void aniadirAmigo(Persona [], int);
 
 //Funcion que recibe un array de elementos de tipo Persona y un valor entero
